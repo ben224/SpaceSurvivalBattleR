@@ -1,4 +1,4 @@
-第三方模組pygame的應用    
+技術練習:python第三方模組pygame的應用    
 提供許多製作遊戲現成的機制  
 sprite代表遊戲中所有運動之物件或物件群  
 groupcollide提供物件群間之碰撞  
